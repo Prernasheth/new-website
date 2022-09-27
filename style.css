@@ -1,0 +1,72 @@
+.mybutton{
+    padding: 100px 100px;
+}
+.logo{
+    margin: 0;
+    padding: 0;
+}
+.abc{
+    width: 20%;
+    height: auto;
+}
+.account{
+    color: white;
+    text-decoration: none;
+}
+.abc img{
+    filter: invert();
+    width: 20%;
+    height: 10%;
+}
+.xyz{
+    border-radius: 50%;
+}
+.profile{
+    color: blue;
+    text-decoration: none;
+    text-align: center;
+}
+.profile:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.mybtn{
+    font-size: 50%;
+    padding: 2% 9%;
+}
+.collection{
+    display: flex;
+    justify-content: space-evenly;
+}
+.middle{
+    display: flex;
+}
+#second{
+    border-radius: 50%;
+    width: 30%;
+    height: 50%;
+}
+.jks{
+    margin-top: 20px;
+}
+.space{
+    margin-top: 20px;
+}
+.spaceone{
+    margin-top: 20px;
+}
+.element{
+    border: 1px solid black;
+}
+.load{
+    
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 10%;
+    background-color: rgb(68, 68, 68);
+}
+.load p{
+    margin-top: 20px;
+    padding-top: 20px;
+}
